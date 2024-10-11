@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Kinsta’s Hugo Site'
+theme = "hyde"
